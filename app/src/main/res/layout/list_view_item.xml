@@ -20,10 +20,10 @@
     <data>
         <variable
             name="daerah"
-            type="com.example.daerah.network.Daerah" />
+            type="com.agnesbelladonashandyayocha175410123.daerah.network.Daerah" />
         <variable
             name="clickListener"
-            type="com.example.daerah.ui.DaerahListener" />
+            type="com.agnesbelladonashandyayocha175410123.daerah.ui.DaerahListener" />
     </data>
 
     <com.google.android.material.card.MaterialCardView

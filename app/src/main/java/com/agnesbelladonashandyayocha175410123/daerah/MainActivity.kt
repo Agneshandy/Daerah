@@ -13,11 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.daerah
+package com.agnesbelladonashandyayocha175410123.daerah
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
+import com.example.daerah.R
 
 class MainActivity : AppCompatActivity() {
 

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.daerah
+package com.agnesbelladonashandyayocha175410123.daerah
 
 import androidx.fragment.app.testing.launchFragmentInContainer
 import androidx.test.core.app.launchActivity
@@ -22,7 +22,8 @@ import androidx.test.espresso.assertion.ViewAssertions.matches
 import androidx.test.espresso.matcher.ViewMatchers.isDisplayed
 import androidx.test.espresso.matcher.ViewMatchers.withText
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.example.daerah.ui.DaerahListFragment
+import com.example.daerah.R
+import com.agnesbelladonashandyayocha175410123.daerah.ui.DaerahListFragment
 import org.junit.Test
 import org.junit.runner.RunWith
 

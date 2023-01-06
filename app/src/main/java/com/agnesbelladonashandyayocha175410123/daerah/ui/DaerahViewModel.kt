@@ -13,14 +13,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.daerah.ui
+package com.agnesbelladonashandyayocha175410123.daerah.ui
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.daerah.network.Daerah
-import com.example.daerah.network.DaerahApi
+import com.agnesbelladonashandyayocha175410123.daerah.network.Daerah
+import com.agnesbelladonashandyayocha175410123.daerah.network.DaerahApi
 import kotlinx.coroutines.launch
 
 enum class DaerahApiStatus { LOADING, ERROR, DONE }

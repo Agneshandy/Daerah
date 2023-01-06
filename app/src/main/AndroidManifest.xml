@@ -27,7 +27,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Daerahs">
-        <activity android:name="com.example.daerah.MainActivity">
+        <activity android:name="com.example.daerah.com.agnesbelladonashandyayocha175410123.daerah.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

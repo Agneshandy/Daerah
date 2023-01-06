@@ -21,7 +21,7 @@
 
         <variable
             name="viewModel"
-            type="com.example.daerah.ui.DaerahViewModel" />
+            type="com.agnesbelladonashandyayocha175410123.daerah.ui.DaerahViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

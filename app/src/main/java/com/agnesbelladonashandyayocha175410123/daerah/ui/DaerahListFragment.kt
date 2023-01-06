@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.daerah.ui
+package com.agnesbelladonashandyayocha175410123.daerah.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.daerah.ui
+package com.agnesbelladonashandyayocha175410123.daerah.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -21,7 +21,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.daerah.databinding.ListViewItemBinding
-import com.example.daerah.network.Daerah
+import com.agnesbelladonashandyayocha175410123.daerah.network.Daerah
 
 /**
  * This class implements a [RecyclerView] [ListAdapter] which uses Data Binding to present [List]

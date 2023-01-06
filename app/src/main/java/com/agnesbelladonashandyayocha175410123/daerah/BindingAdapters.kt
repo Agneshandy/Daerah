@@ -13,15 +13,16 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.daerah
+package com.agnesbelladonashandyayocha175410123.daerah
 
 import android.view.View
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.daerah.network.Daerah
-import com.example.daerah.ui.DaerahApiStatus
-import com.example.daerah.ui.DaerahListAdapter
+import com.example.daerah.R
+import com.agnesbelladonashandyayocha175410123.daerah.network.Daerah
+import com.agnesbelladonashandyayocha175410123.daerah.ui.DaerahApiStatus
+import com.agnesbelladonashandyayocha175410123.daerah.ui.DaerahListAdapter
 
 /**
  * Updates the data shown in the [RecyclerView]
